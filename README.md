@@ -537,5 +537,5 @@ Some content, particularly Section 4, were inspired, adapted and refined from [F
 ---
 **Version:** 1.0.0  
 **Last Updated:** October 2025  
-**Prepared by:** Mohamamd Shahid Akhtar  
+**Prepared by:** Mohammad Shahid Akhtar  
 **Course:** WIX1002
